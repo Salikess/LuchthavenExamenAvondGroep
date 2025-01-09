@@ -75,6 +75,7 @@ public class Luchthaven {
 
             System.out.println("Passagier toegevoegd: " + nieuwePassagier);
 
+
         }
 
         private void voegVluchtToe() {
