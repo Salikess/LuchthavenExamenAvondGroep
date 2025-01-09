@@ -73,6 +73,7 @@ public class Luchthaven {
             Passagier nieuwePassagier = new Passagier(naam, leeftijd, adres, "");
             Passagier.add(nieuwePassagier);
 
+            //confirmation des donnees
             System.out.println("Passagier toegevoegd: " + nieuwePassagier);
 
 
